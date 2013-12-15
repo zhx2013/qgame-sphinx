@@ -12,6 +12,7 @@ Contents:
    :maxdepth: 2
 
    doc/intro
+   doc/down
 
 
 Indices and tables
