@@ -13,6 +13,7 @@ Contents:
 
    doc/intro
    doc/down
+   doc/use
 
 
 Indices and tables
