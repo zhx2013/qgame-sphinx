@@ -14,6 +14,7 @@ Contents:
    doc/intro
    doc/down
    doc/use
+   doc/syntax
 
 
 Indices and tables
